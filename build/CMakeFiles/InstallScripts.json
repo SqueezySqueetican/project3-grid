@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/C++/4grid/GridRobotController/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

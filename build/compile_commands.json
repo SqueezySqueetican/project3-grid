@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/C++/4grid/GridRobotController/build",
+  "command": "\"C:\\Program Files\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe\"  @CMakeFiles\\grid_robot.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\grid_robot.dir\\src\\Controller.cpp.obj -c C:\\C++\\4grid\\GridRobotController\\src\\Controller.cpp",
+  "file": "C:/C++/4grid/GridRobotController/src/Controller.cpp",
+  "output": "CMakeFiles/grid_robot.dir/src/Controller.cpp.obj"
+},
+{
+  "directory": "C:/C++/4grid/GridRobotController/build",
+  "command": "\"C:\\Program Files\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe\"  @CMakeFiles\\grid_robot.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\grid_robot.dir\\src\\Grid.cpp.obj -c C:\\C++\\4grid\\GridRobotController\\src\\Grid.cpp",
+  "file": "C:/C++/4grid/GridRobotController/src/Grid.cpp",
+  "output": "CMakeFiles/grid_robot.dir/src/Grid.cpp.obj"
+},
+{
+  "directory": "C:/C++/4grid/GridRobotController/build",
+  "command": "\"C:\\Program Files\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe\"  @CMakeFiles\\grid_robot.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\grid_robot.dir\\src\\Navigator.cpp.obj -c C:\\C++\\4grid\\GridRobotController\\src\\Navigator.cpp",
+  "file": "C:/C++/4grid/GridRobotController/src/Navigator.cpp",
+  "output": "CMakeFiles/grid_robot.dir/src/Navigator.cpp.obj"
+},
+{
+  "directory": "C:/C++/4grid/GridRobotController/build",
+  "command": "\"C:\\Program Files\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe\"  @CMakeFiles\\grid_robot.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\grid_robot.dir\\src\\PID.cpp.obj -c C:\\C++\\4grid\\GridRobotController\\src\\PID.cpp",
+  "file": "C:/C++/4grid/GridRobotController/src/PID.cpp",
+  "output": "CMakeFiles/grid_robot.dir/src/PID.cpp.obj"
+},
+{
+  "directory": "C:/C++/4grid/GridRobotController/build",
+  "command": "\"C:\\Program Files\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe\"  @CMakeFiles\\grid_robot.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\grid_robot.dir\\src\\Simulator.cpp.obj -c C:\\C++\\4grid\\GridRobotController\\src\\Simulator.cpp",
+  "file": "C:/C++/4grid/GridRobotController/src/Simulator.cpp",
+  "output": "CMakeFiles/grid_robot.dir/src/Simulator.cpp.obj"
+},
+{
+  "directory": "C:/C++/4grid/GridRobotController/build",
+  "command": "\"C:\\Program Files\\x86_64-8.1.0-win32-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe\"  @CMakeFiles\\grid_robot.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\grid_robot.dir\\src\\main.cpp.obj -c C:\\C++\\4grid\\GridRobotController\\src\\main.cpp",
+  "file": "C:/C++/4grid/GridRobotController/src/main.cpp",
+  "output": "CMakeFiles/grid_robot.dir/src/main.cpp.obj"
+}
+]
